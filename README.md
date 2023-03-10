@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python and Excel VBA**
 - 📫 How to reach me **lance.kellerman@quickreleaseinc.com**
 - ⚡ Fun fact **I have been skateboarding for 15 years and have two black cats named Apollo and Zeus.**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lance kellerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lance kellerman" height="30" width="40" /></a>
